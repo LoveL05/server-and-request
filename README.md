@@ -1,2 +1,2 @@
-# server-and-request
-A simple python flask server and a c++ request script
+# ServerRequest
+C++ socket programming with request functionality (kind of)
