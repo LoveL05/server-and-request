@@ -10,7 +10,7 @@
 #define PORT 8080
 
 std::string request(std::string r) {
-    if (r == "get_link") {return "https://www.youtube.com/watch?v=dQw4w9WgXcQ";}
+    if (r == "get_link") {return "https://www.youtube.com/watch?v=Sz89hp_OBVw";}
     return "ERROR";
 }
 
